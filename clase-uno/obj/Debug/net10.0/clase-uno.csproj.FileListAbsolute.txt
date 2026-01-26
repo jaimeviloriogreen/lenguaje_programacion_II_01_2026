@@ -1,0 +1,14 @@
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-uno/bin/Debug/net10.0/clase-uno
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-uno/bin/Debug/net10.0/clase-uno.deps.json
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-uno/bin/Debug/net10.0/clase-uno.runtimeconfig.json
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-uno/bin/Debug/net10.0/clase-uno.dll
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-uno/bin/Debug/net10.0/clase-uno.pdb
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-uno/obj/Debug/net10.0/clase-uno.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-uno/obj/Debug/net10.0/clase-uno.AssemblyInfoInputs.cache
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-uno/obj/Debug/net10.0/clase-uno.AssemblyInfo.cs
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-uno/obj/Debug/net10.0/clase-uno.csproj.CoreCompileInputs.cache
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-uno/obj/Debug/net10.0/clase-uno.dll
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-uno/obj/Debug/net10.0/refint/clase-uno.dll
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-uno/obj/Debug/net10.0/clase-uno.pdb
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-uno/obj/Debug/net10.0/clase-uno.genruntimeconfig.cache
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-uno/obj/Debug/net10.0/ref/clase-uno.dll
