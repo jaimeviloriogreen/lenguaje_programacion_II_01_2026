@@ -1,18 +1,17 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-/*
+﻿/*
   1. Constantes
   2. Conversión de tipos
-  2.1 Conversión implícita
-  2.2 Conversión explícita
-  5. Parseo de tipos
-  6. Operadores
-    - Operadores Aritméticos en C#
-    - Operadores de asignación en C#
-    - Operadores de comparación en C#
-    - Operadores lógicos en C#
-  6. Control de flujo
-  6.1 If ... Else
+    2.1 Conversión implícita
+    2.2 Conversión explícita
+  3. Parseo de tipos
+  4. Operadores
+    4.1 Operadores Aritméticos en C#
+    4.2 Operadores de asignación en C#
+    4.3 Operadores de comparación en C#
+    4.4 Operadores lógicos en C#
+  5. Control de flujo
+    5.1 If ... Else
+    5.2 If ...Else (Anidado)
 */
 
 /*=== CONSTANTES === */
