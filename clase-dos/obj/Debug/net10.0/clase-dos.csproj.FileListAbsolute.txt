@@ -1,0 +1,15 @@
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-dos/bin/Debug/net10.0/clase-dos
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-dos/bin/Debug/net10.0/clase-dos.deps.json
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-dos/bin/Debug/net10.0/clase-dos.runtimeconfig.json
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-dos/bin/Debug/net10.0/clase-dos.dll
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-dos/bin/Debug/net10.0/clase-dos.pdb
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-dos/obj/Debug/net10.0/clase-dos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-dos/obj/Debug/net10.0/clase-dos.AssemblyInfoInputs.cache
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-dos/obj/Debug/net10.0/clase-dos.AssemblyInfo.cs
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-dos/obj/Debug/net10.0/clase-dos.csproj.CoreCompileInputs.cache
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-dos/obj/Debug/net10.0/clase-dos.sourcelink.json
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-dos/obj/Debug/net10.0/clase-dos.dll
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-dos/obj/Debug/net10.0/refint/clase-dos.dll
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-dos/obj/Debug/net10.0/clase-dos.pdb
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-dos/obj/Debug/net10.0/clase-dos.genruntimeconfig.cache
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-dos/obj/Debug/net10.0/ref/clase-dos.dll
