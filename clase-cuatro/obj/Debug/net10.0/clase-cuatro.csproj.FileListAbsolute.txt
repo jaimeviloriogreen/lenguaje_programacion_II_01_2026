@@ -1,0 +1,15 @@
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-cuatro/bin/Debug/net10.0/clase-cuatro
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-cuatro/bin/Debug/net10.0/clase-cuatro.deps.json
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-cuatro/bin/Debug/net10.0/clase-cuatro.runtimeconfig.json
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-cuatro/bin/Debug/net10.0/clase-cuatro.dll
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-cuatro/bin/Debug/net10.0/clase-cuatro.pdb
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-cuatro/obj/Debug/net10.0/clase-cuatro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-cuatro/obj/Debug/net10.0/clase-cuatro.AssemblyInfoInputs.cache
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-cuatro/obj/Debug/net10.0/clase-cuatro.AssemblyInfo.cs
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-cuatro/obj/Debug/net10.0/clase-cuatro.csproj.CoreCompileInputs.cache
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-cuatro/obj/Debug/net10.0/clase-cuatro.sourcelink.json
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-cuatro/obj/Debug/net10.0/clase-cuatro.dll
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-cuatro/obj/Debug/net10.0/refint/clase-cuatro.dll
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-cuatro/obj/Debug/net10.0/clase-cuatro.pdb
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-cuatro/obj/Debug/net10.0/clase-cuatro.genruntimeconfig.cache
+/Users/jaimeviloriogreen/Desktop/classes/lenguaje_programacion_II_01_2026/clase-cuatro/obj/Debug/net10.0/ref/clase-cuatro.dll
